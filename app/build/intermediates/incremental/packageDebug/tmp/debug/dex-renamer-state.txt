@@ -1,0 +1,4 @@
+#Wed Sep 12 22:08:21 COT 2018
+base.0=C\:\\Software\\Projects\\coursera\\Lab5-AsyncTaskLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

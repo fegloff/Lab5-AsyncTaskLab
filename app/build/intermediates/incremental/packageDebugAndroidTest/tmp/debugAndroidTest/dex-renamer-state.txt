@@ -1,0 +1,4 @@
+#Wed Sep 12 21:53:04 COT 2018
+base.0=C\:\\Software\\Projects\\coursera\\Lab5-AsyncTaskLab\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
